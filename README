@@ -4,5 +4,14 @@
 Zaklatott is an easy implementation of a decentralised groupchat where all clients have the same right.
 If one goes, the others stay in. There is no centralised server who can be crashing.
 
+== Usage Instructions ==
+• You need a working Python < 3 and a wxWidgets for Python. (wxPython)
+• You need to forward the Port 4220 to your PC and open connections from outside to this port
+• Than start the guiclient.py, type in the name of the channel you wanna join
+• If you want to join a conversation, you have to type in the IP of one other chatter in the room
+ - If not, leave the IP field free, push enter and tell some of the others your ip. The IP of every
+   member of the room can be used to join the room.
+• Now its time to chat
+
 == License ==
 Copyright 2011 by Leonard Techel, licensed under GPL v3.
