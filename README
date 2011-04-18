@@ -1,0 +1,8 @@
+= Zaklatott =
+
+== Description ==
+Zaklatott is an easy implementation of a decentralised groupchat where all clients have the same right.
+If one goes, the others stay in. There is no centralised server who can be crashing.
+
+== License ==
+Copyright 2011 by Leonard Techel, licensed under GPL v3.
